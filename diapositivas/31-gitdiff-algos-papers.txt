@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 Algoritmos de git diff                                                     │
+│                                                                              │
+│ 📖 “How different are different diff algorithms in Git?”                     │
+│     Nugroho, Y.S., Hata, H. & Matsumoto, K., 2019-09-11                      │
+│     <https://doi.org/10.1007/s10664-019-09772-z>                             │
+│                                                                              │
+│     ‣ “Use --histogram for code changes”                                     │
+│                                                                              │
+│     ‣ “Our qualitative investigation revealed that Histogram is better for   │
+│       describing code changes. Since diff is the fundamental tool for        │
+│       various software engineering tasks, considering limitations and        │
+│       advantages of algorithms is important. Currently we recommend using the│
+│       Histogram algorithm when analyzing code changes.”                      │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

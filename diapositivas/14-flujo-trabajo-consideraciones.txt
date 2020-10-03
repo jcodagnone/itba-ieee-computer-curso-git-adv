@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 Flujo de trabajo: Algunas consideraciones                                  │
+│                                                                              │
+│ ‣ Colaboración en un mundo diverso. No todo el mundo…                        │
+│                                                                              │
+│     ‣ utiliza git en sus flujos locales de trabajo.                          │
+│                                                                              │
+│     ‣ no todo el mundo quiere tener cuenta o su proyecto en github.com.      │
+│       ¡Hola Microsoft! 💣💥💨                                                │
+│                                                                              │
+│   Antes de github.com estaba muy moda <https://sourceforge.net/> (SVN/CVS).  │
+│   Pero ahora…¿Quién te recuerda?                                             │
+│     ✋ 👴 <https://sourceforge.net/projects/pop3filter/>                     │
+│                                                                              │
+│   📖 “The Problem With Putting All the World's Code in GitHub”               │
+│   <https://www.wired.com/2015/06/problem-putting-worlds-code-github/>        │
+│                                                                              │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

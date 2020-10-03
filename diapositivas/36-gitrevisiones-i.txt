@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 gitrevisions - Indicando revisiones - i                                    │
+│                                                                              │
+│   📖 gitrevisions(7) - Specifying revisions and ranges for Git               │
+│                                                                              │
+│   ‣ <sha1> ej: dae86e1950b1277e545cee180551750029cfe735, dae86e              │
+│                                                                              │
+│   ‣ <refname>, ej: master, heads/master, refs/heads/master                   │
+│    HEAD       names the commit on which you based the changes in the working │
+│                                                                              │
+│    FETCH_HEAD records the branch which you fetched from a remote repository  │
+│                your last git fetch invocation.                               │
+│                                                                              │
+│    ORIG_HEAD is created by commands that move your HEAD in a drastic way, to │
+│                record the position of the HEAD before their operation.       │
+│                                                                              │
+│    MERGE_HEAD, CHERRY_PICK_HEAD records the commit(s) which you are          │
+│                 merging/picking                                              │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

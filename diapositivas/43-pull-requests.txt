@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 No todo en la vida son los pull requests                                   │
+│                                                                              │
+│  Los "pull request" de plataformas "centralizadas" tipo GitHub son otra      │
+│  forma de compartir cambios. Involucra                                       │
+│                                                                              │
+│     ‣ Clonar el repositorio original y disponibilazarlo también online.      │
+│                                                                              │
+│     ‣ Enviar los cambios típicamente a una rama de este repositorio remoto   │
+│                                                                              │
+│     ‣ Avisar "río arriba" que están disponibles los cambios y discutirlos,   │
+│      (también en un concepto propio de la  plataforma..típicamente issues).  │
+│                                                                              │
+│  A veces lo evito (cambios chicos, cuando no quiero mantener una por siempre)│
+│                                                                              │
+│        <https://github.com/auth0/java-jwt/issues/208>                        │
+│        <https://github.com/auth0/java-jwt/issues/213>                        │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

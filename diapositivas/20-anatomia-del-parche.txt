@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 Anatomía de las diferencias (🇪🇸 parche 🇬🇧 patch)                           │
+│                                                                              │
+│  • Hunks            Groups of differing lines.                               │
+│  • White Space      Suppressing differences in white space.                  │
+│  • Blank Lines      Suppressing differences whose lines are all blank.       │
+│  • Specified Lines  Suppressing differences whose lines all match a pattern. │
+│  • Case Folding     Suppressing differences in alphabetic case.              │
+│                                                                              │
+│  Como describir las diferencias? ⇨ Unified Format                            │
+│                                                                              │
+│  Podemos seguir el ejemplo anterior, o tomar prestado otro                   │
+│    <https://github.com/git/git/commit/4e801463c7d2b26de747d3684c.patch> ❃    │
+│  O una representación gráfica con un IDE en la web                           │
+│    <https://github.com/git/git/commit/4e801463c7d2b26de747d3684c> ❃          │
+│                                                                              │
+│                                                                              │
+│ ❃ (ID cortado por espacio. 4e801463c7d2b26de747d3684cf75b722b0594af          │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

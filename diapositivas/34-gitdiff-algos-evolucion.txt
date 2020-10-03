@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 Algoritmos de git diff:  Evolución                                         │
+│                                                                              │
+│   Fuente: el paper anterior                                                  │
+│                                                                              │
+│    ‣  Myers algorithm was developed by Myers (1986).                         │
+│                                                                              │
+│    ‣  The Minimal algorithm is the extended version of Myers.                │
+│                                                                              │
+│    ‣  The Patience marks the important lines within the text by focusing on  │
+│       the lines that have the smallest number of occurrences, but are        │
+│       essential. Built by  who is renowned as the BitTorrent developer       │ 
+│                                                                              │
+│    ‣  The Histogram algorithm is the enhanced version of Patience.           │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 git am y git apply - aplican los parches                                   │
+│                                                                              │
+│                                                                              │
+│ git am - Apply a series of patches from a mailbox                            │
+│      Splits mail messages in a mailbox into commit log message, authorship   │
+│      information and patches, and applies them to the current branch.        │
+│                                                                              │
+│                                                                              │
+│ git apply - Apply a patch to files and/or to the index                       │
+│      Reads the supplied diff output (i.e. "a patch") and applies it to files.│
+│      When running from a subdirectory in a repository, patched paths outside │
+│      the directory are ignored.                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

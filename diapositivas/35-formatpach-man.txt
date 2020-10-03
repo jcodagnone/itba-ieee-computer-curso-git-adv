@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 git format-patch - manual                                                  │
+│                                                                              │
+│GIT-FORMAT-PATCH(1)               Git Manual               GIT-FORMAT-PATCH(1)│
+│                                                                              │
+│NAME                                                                          │
+│      git-format-patch - Prepare patches for e-mail submission                │
+│                                                                              │
+│SYNOPSIS                                                                      │
+│       git format-patch [-k] [(-o|--output-directory) <dir> | --stdout]       │
+│                          …                                                   │
+│                          -s | [33m--signoff[0m]                                     │
+│                          [ <since> | [33m<revision range>[0m ]                      │
+│DESCRIPTION                                                                   │
+│       Prepare each commit with its patch in one file per commit, formatted   │
+│       to resemble UNIX mailbox format. The output of this command is         │
+│        for e-mail submission or for use with git am.                         │ 
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

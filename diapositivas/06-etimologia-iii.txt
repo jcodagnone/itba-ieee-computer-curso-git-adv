@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 Etimología III                                                             │
+│                                                                              │
+│GIT(1)                            Git Manual                            GIT(1)│
+│NAME                                                                          │
+│    git - the stupid content tracker                                          │
+│                                                                              │
+│SYNOPSIS                                                                      │
+│    git [--version] [--help] [-C <path>] [-c <name>=<value>]…                 │
+│    …                                                                         │
+│                                                                              │
+│DESCRIPTION                                                                   │
+│      Git is a fast, scalable, distributed revision control system with an    │
+│      unusually rich command set that provides both high-level operations     │
+│      and full access to internals.                                           │
+│                                                                              │
+│      See gittutorial(7) to get started, then see giteveryday(7) for a useful │
+│      minimum set of commands. The Git User’s Manual[1] has a more in-depth   │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 Roles de usuarios 👤                                                       │
+│                                                                              │
+│GITEVERYDAY(7)                    Git Manual                    GITEVERYDAY(7)│
+│      Git users can broadly be grouped into four categories for the purposes  │
+│      of describing here a small set of useful command for everyday Git.      │
+│                                                                              │
+│      ·   Individual Developer (Standalone) commands are essential for        │
+│          anybody who makes a commit, even for somebody who works alone.      │
+│                                                                              │
+│      ·   If you work with other people, you will need commands listed in the │
+│          Individual Developer (Participant) section as well.                 │
+│                                                                              │
+│      ·   People who play the Integrator role need to learn some more         │
+│          commands in addition to the above.                                  │
+│                                                                              │
+│      ·   Repository Administration commands are for system administrators    │
+│          who are responsible for the care and feeding of Git repositories.   │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

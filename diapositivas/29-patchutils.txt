@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 patchutils                                                                 │
+│                                                                              │
+│ “Patchutils is a small collection of programs that operate on patch files”   │
+│ <http://cyberelk.net/tim/software/patchutils/>                               │
+│                                                                              │
+│   interdiff   - creates an incremental patch from two patches against a      │
+│                 common source                                                │
+│   combinediff - creates a single patch from two incremental patches          │
+│   filterdiff  - selects patches based on files matching shell wildcards      │
+│   lsdiff      - lists modified files in a patch                              │
+│   rediff      - corrects hand-edited patches                                 │
+│   fixcvsdiff  - corrects the output of 'cvs diff'                            │
+│   splitdiff   - separates patches so that each new file alters a given file  │
+│                 only once                                                    │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 gitrevisions - Indicando revisiones - ii                                   │
+│                                                                              │
+│  <rev>~[<n>], e.g. HEAD~, master~3                                           │
+│    A suffix ~ to a revision parameter means the first parent of that commit  │
+│    object. A suffix ~<n> to a revision parameter means the commit object that│
+│    is the <n>th generation ancestor of the named commit object, following    │
+│    only the first parents. I.e.  <rev>~3 is equivalent to <rev>^^^ which is  │
+│    equivalent to <rev>^1^1^1. See below for an illustration of the usage of  │
+│    this form.                                                                │
+│                                                                              │
+│ Rules of thumb: <https://stackoverflow.com/questions/2221658/>               │
+│   Use ‘~’ most of the time — to go back a number of generations,             │ 
+│           usually what you want                                              │
+│                                                                              │
+│   Use ‘^’ on merge commits — because they have two or more (immediate)       │
+│           parents                                                            │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

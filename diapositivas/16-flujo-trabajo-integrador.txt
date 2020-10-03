@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 Flujo de trabajo: Integrador                                      [repaso] │
+│                                                                              │
+│                                                                              │
+│ 0. Recepción de cambios                                                      │
+│     🖳  [1mgit fetch[0m o [1mpull[0m                                                      │
+│     📬  Recepción del cambio fuera de banda + 🖳  [1mgit am[0m                      │
+│                                                                              │
+│ 1. Revisión de cambios                                                       │
+│     🖳  [1mpull[0m to merge from your trusted      lieutenants.                     │
+│     🖳  [1mlog[0m to see what happened                                              │
+│     🖳  [1mam[0m to apply patches e-mailed in from your contributors.               │
+│     🖳  [1mformat-patch[0m to prepare and send suggested alternative to             │
+│         contributors.                                                        │
+│     🖳  [1mrevert[0m to undo botched commits.                                       │
+│     🖳  [1mpush[0m to publish the bleeding edge.                                    │
+│                                                                              │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│GITEVERYDAY(7)                    Git Manual                    GITEVERYDAY(7)│
+│                                                                              │
+│NAME                                                                          │
+│      giteveryday - A useful minimum set of commands for Everyday Git         │
+│                                                                              │
+│SYNOPSIS                                                                      │
+│      Everyday Git With 20 Commands Or So                                     │
+│                                                                              │
+│DESCRIPTION                                                                   │
+│      Git users can broadly be grouped into four categories for the purposes  │
+│      of describing here a small set of useful command for everyday Git.      │
+│                                                                              │
+│      ·   Individual Developer (Standalone) commands are essential for        │
+│          anybody who makes a commit, even for somebody who works alone.      │
+│                                                                              │
+│      ·   If you work with other people, you will need commands listed in the │
+│          Individual Developer (Participant) section as well.                 │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

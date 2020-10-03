@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 Etimología II / Contexto histórico I                                       │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│ ‣ “I'm an egotistical bastard, and I name all my projects after myself.      │
+│  First 'Linux', now 'git'”                                                   │
+│     -- Linus Torvalds                                                        │
+│                                                                              │
+│ ‣ “Git, to some degree, was designed on the principle that everything you    │
+│  ever do on a daily basis should take less than a second”                    │
+│                                                                              │
+│ Fuente: 📖 “After controversy, Torvalds begins work on "git"”                │
+│ <https://www.pcworld.idg.com.au/article/129776/after_controversy_torval…>    │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

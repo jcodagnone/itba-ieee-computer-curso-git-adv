@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 ¡Pensar fuera de la caja! 📦                                               │
+│                                                                              │
+│Un sistema de versionado como git funciona bien mas allá del código           │
+│fuente. Podés versionar y "backupear" (generar copias) de                     │
+│                                                                              │
+│ ‣ Tus "dotfiles" (.bashrc, .vimrc)                                           │
+│                                                                              │
+│ ‣ Configuraciones del servidor (/etc/nginx?) (+ hooks para actualizar)       │
+│                                                                              │
+│ ‣ Presentaciones y escritos (como este documento)                            │
+│                                                                              │
+│Si bien archivos se pueden agregar archivos binarios al repositorio,          │
+│para la visualización de diff o la resolución de conflictos se requerirá      │
+│bastante configuración.                                                       │
+│                                                                              │
+│ ‣ 📖 [1mgitattributes(5)[0m “Performing text diffs of binary files”                │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

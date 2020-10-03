@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 Flujo de trabajo: Developer (standalone o participant)            [repaso] │
+│                                                                              │
+│ 0. Obtener versión base común sobre la que trabajaremos                      │
+│     🖳  git [ [1minit | clone | fetch | pull | checkout | reset[0m ]                │
+│                                                                              │
+│ 1. Trabajar y realizar cambios hasta que estemos satisfechos                 │
+│     ⛏️  Editor de texto, IDE especializada, sistemas de construcción, …       │
+│                                                                              │
+│ 2. Revisar cambios contra la versión base                                    │
+│     🔎 ¿Tengo únicamente los cambios que quería? ¿Hay algo para descartar?   │
+│     🖳  git [ [1mstatus | diff | stash |  checkout | add[0m ]                       │
+│                                                                              │
+│ 3. Si quisiese enviar el cambio a un tercero para que el lo pueda incorporar │
+│    a su copia local. ¿Como describo al cambio? ✈                             │
+│     🖳  git [ [1mcommit | format-patch | send-email | imap-send | push[0m  ]        │
+│                                                                              │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

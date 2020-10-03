@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 Objetivo II                                                                │
+│                                                                              │
+│  🖻 <https://xkcd.com/1597/>                                                  │
+│                                                                              │
+│  > This is git. It tracks collaborative work on projects through a beatiful  │
+│  > distriuted graph theory tree model                                        │
+│                                                                              │
+│  < Cool. How do we use it?                                                   │
+│                                                                              │
+│  > No idea. Just memorize these shell commands and type them to sync up.     │
+│  > If you get errors, save your work elsewhere, delete the project and       │
+│  > download a fresh copy.                                                    │
+│                                                                              │
+│  “If that doesn't fix it, git.txt contains the phone number of a friend      │
+│   of mine who understands git. Just wait through a few minutes of            │
+│   'It's really pretty simple, just think of branches as...' and              │
+│   eventually you'll learn the commands that will fix everything.”            │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯
