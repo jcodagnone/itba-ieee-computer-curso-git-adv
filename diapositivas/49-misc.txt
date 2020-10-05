@@ -1,0 +1,19 @@
+╭──────────────────────────────────────────────────────────────────────────────╮
+│ 🡆 git show,  git rebase  interactivo                                         │
+│                                                                              │
+│ git show   - Show various types of objects                                   │
+│ git log    - Show commit logs                                                │
+│   --pretty[=<format>], --format=<format>                                     │
+│       Pretty-print the contents of the commit logs in a given format, where  │
+│       <format> can be one of oneline, short, medium, full, fuller, reference,│
+│       email, raw,                                                            │ 
+│                                                                              │
+│ git stash  - Stash the changes in a dirty working directory away             │
+│ git reset  - Reset current HEAD to the specified state                       │
+│ git commit - Record changes to the repository                                │
+│ git reflog - Manage reflog information                                       │
+│ git rebase - Reapply commits on top of another base tip                      │
+│ git merge  - Join two or more development histories together                 │ 
+│                                                                              │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────[ XX ]──╯
