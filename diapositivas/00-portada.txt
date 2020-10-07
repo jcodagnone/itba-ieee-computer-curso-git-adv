@@ -1,7 +1,7 @@
 
 
     ██████╗ ██╗████████╗                                               
-   ██╔════╝ ██║╚══██╔══╝    2020-10-07                                           
+   ██╔════╝ ██║╚══██╔══╝    2020-10-07
    ██║  ███╗██║   ██║       <https://www.instagram.com/computer.society.itba>
    ██║   ██║██║   ██║       Juan F. Codagnone <mailto:juan @ flowics.com>
    ╚██████╔╝██║   ██║                         <https://twitter.com/juam>
