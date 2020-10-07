@@ -14,6 +14,6 @@
 │ │             Nada Importante                                              │ │
 │ │EOF                                                                       │ │
 │ │# obtenemos un parche ya hecho                                            │ │
-│ │$ diff -ur licq-1.2.7.base/ licq-1.2.7.base > cambios.diff                │ │
+│ │$ diff -ur licq-1.2.7.base/ licq-1.2.7/ > cambios.diff                    │ │
 │ ╰──────────────────────────────────────────────────────────────────────────╯ │
 ╰──────────────────────────────────────────────────────────────────────[ XX ]──╯
