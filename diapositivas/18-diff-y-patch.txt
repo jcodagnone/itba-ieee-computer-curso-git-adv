@@ -6,11 +6,11 @@
 │ │Esta parte es texto libre                                                 │ │
 │ │                                                                          │ │
 │ │diff -ur licq-1.2.7.base/ChangeLog licq-1.2.7/ChangeLog                   │ │
-│ │--- licq-1.2.7.base/ChangeLog	2020-10-03 23:00:17.906455099 -0300  │ │
-│ │+++ licq-1.2.7/ChangeLog	2020-10-03 23:04:14.605631756 -0300          │ │
+│ │--- licq-1.2.7.base/ChangeLog        2020-10-03 23:00:17.906455099 -0300  │ │
+│ │+++ licq-1.2.7/ChangeLog             2020-10-03 23:04:14.605631756 -0300  │ │
 │ │@@ -880,3 +880,5 @@                                                       │ │
-│ │ 	  colors.scrollbarFg = #color colors.scrollbarBg = #color            │ │
-│ │ 	  colors.btnTxt = #color                                             │ │
+│ │       colors.scrollbarFg = #color colors.scrollbarBg = #color            │ │
+│ │       colors.btnTxt = #color                                             │ │
 │ │                                                                          │ │
 │ │+2020-10-07  Generamos un cambio                                          │ │
 │ │+            Nada Importante                                              │ │
