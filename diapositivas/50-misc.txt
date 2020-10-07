@@ -12,7 +12,7 @@
 │ git commit - Record changes to the repository                                │
 │ git reflog - Manage reflog information                                       │
 │ git rebase - Reapply commits on top of another base tip                      │
-│ git merge  - Join two or more development histories together                 │ 
+│ git merge  - Join two or more development histories together                 │
 │ git blame  - Show what revision and author last modified each line of a file │
 │ git worktree - Manage multiple working trees                                 │
 │                                                                              │

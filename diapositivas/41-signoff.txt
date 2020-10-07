@@ -4,7 +4,7 @@
 │ <https://gerrit-review.googlesource.com/Documentation/user-signedoffby.html> │
 │ <https://developercertificate.org/>                                          │
 │                                                                              │
-│ ╭──────────────────────────────────────────────────────────────────────────╮ │ 
+│ ╭──────────────────────────────────────────────────────────────────────────╮ │
 │ │From: Author <from@author.example.org>                                    │ │
 │ │                                                                          │ │
 │ │<changelog>                                                               │ │

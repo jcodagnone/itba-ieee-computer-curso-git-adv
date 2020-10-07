@@ -10,7 +10,7 @@
 │    this form.                                                                │
 │                                                                              │
 │ Rules of thumb: <https://stackoverflow.com/questions/2221658/>               │
-│   Use ‘~’ most of the time — to go back a number of generations,             │ 
+│   Use ‘~’ most of the time — to go back a number of generations,             │
 │           usually what you want                                              │
 │                                                                              │
 │   Use ‘^’ on merge commits — because they have two or more (immediate)       │

@@ -14,6 +14,6 @@
 │DESCRIPTION                                                                   │
 │       Prepare each commit with its patch in one file per commit, formatted   │
 │       to resemble UNIX mailbox format. The output of this command is         │
-│        for e-mail submission or for use with git am.                         │ 
+│       for e-mail submission or for use with git am.                          │
 │                                                                              │
 ╰──────────────────────────────────────────────────────────────────────[ XX ]──╯

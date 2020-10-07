@@ -9,7 +9,7 @@
 │                                                                              │
 │    ‣  The Patience marks the important lines within the text by focusing on  │
 │       the lines that have the smallest number of occurrences, but are        │
-│       essential. Built by  who is renowned as the BitTorrent developer       │ 
+│       essential. Built by  who is renowned as the BitTorrent developer       │
 │                                                                              │
 │    ‣  The Histogram algorithm is the enhanced version of Patience.           │
 │                                                                              │
